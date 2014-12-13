@@ -1,0 +1,15 @@
+{
+  "name": "webkit-append-v-p",
+  "version": "0.1.0",
+  "authors": [
+    "Galen Broderick <galen.broderick@gmail.com>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "**/*.md"
+  ],
+  "description": "A mixin to append webkit prefix to either properties or values",
+  "main": "_append-webkit-v-p.scss",
+  "license": "MIT"
+}
